@@ -1,0 +1,1 @@
+{"name":"Calc","short_name":"Calc","start_url":"./","display":"standalone","background_color":"#090b10","theme_color":"#090b10","description":"モダンな通常・分数対応PWA電卓","icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
